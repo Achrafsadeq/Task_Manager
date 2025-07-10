@@ -55,31 +55,20 @@ Vercel (Edge Functions, CDN, CI/CD)
 ```
 ---
 
-## 🚀 Getting Started
-
-Clone the repo:
-
-```bash
-git clone https://github.com/achrafsadeq/task-manager.git
-cd task-manager
-
-
-## Overview
-The Professional Task Manager is a web-based application built to enhance productivity for individuals and teams. It provides an intuitive interface with a dark charcoal theme (#1a1a1a) and green accents (#12a648), featuring task prioritization, project tracking, and interactive data visualizations. The app is designed for scalability, with a modular architecture ready for backend integration.
 
 ## ⚙️ Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/achrafsadeq/task-manager-pro.git
-cd task-manager-pro
+git clone https://github.com/achrafsadeq/Task_Manager.git
+cd Task_Manager
 ```
 
 Install dependencies:
 
 ```bash
-pnpm install
+npm install
 ```
 
 Set up environment variables (e.g., `.env.local`):
